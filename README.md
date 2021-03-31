@@ -1,20 +1,56 @@
-# {{project_name}}
+# EMIS QA
 
-This is the code and configuration for {{project_name}}
+This is the code and configuration for EMIS QA.
 
-* The paper is [here]()
-* Raw model outputs, including charts, crosstabs, etc, are in `released_outputs/`
-* If you are interested in how we defined our variables, take a look at the [study definition](analysis/study_definition.py); this is written in `python`, but non-programmers should be able to understand what is going on there
-* If you are interested in how we defined our code lists, look in the [codelists folder](./codelists/).
-* Developers and epidemiologists interested in the framework should review [the OpenSAFELY documentation](https://docs.opensafely.org)
+* Released outputs are in the [released outputs folder][].
+* If you are interested in how we defined our variables,
+  then take a look at the [study definition][];
+  this is written in Python, but non-programmers should be able to understand what is going on there.
+* If you are interested in how we defined our codelists,
+  then take look in the [codelists folder][].
+* Developers and epidemiologists interested in the framework should review the [OpenSAFELY documentation][].
 
-# About the OpenSAFELY framework
+## Running
 
-The OpenSAFELY framework is a secure analytics platform for
-electronic health records research in the NHS.
+On first run, execute:
 
-Instead of requesting access for slices of patient data and
-transporting them elsewhere for analysis, the framework supports
-developing analytics against dummy data, and then running against the
-real data *within the same infrastructure that the data is stored*.
+```sh
+opensafely run run_all
+```
+
+This will generate the current and last snapshots, which will be identical,
+and a summary notebook that compares the current snapshot to the last snapshot.
+
+On second and subsequent runs, execute:
+
+```sh
+opensafely run generate_study_population
+opensafely run generate_summary_notebook
+```
+
+This will generate the current snapshot and a summary notebook.
+
+Then, execute:
+
+```sh
+opensafely run rotate_study_population
+```
+
+This will generate the new last snapshot, which will be identical to the current snapshot.
+However, because it was executed after the summary notebook was generated,
+the summary notebook will compare the current snapshot to the old last snapshot.
+
+## About the OpenSAFELY framework
+
+The OpenSAFELY framework is a secure analytics platform for electronic health records research in the NHS.
+
+Instead of requesting access for slices of patient data and transporting them elsewhere for analysis,
+the framework supports developing analytics against dummy data
+and then running against the real data *within the same infrastructure that the real data is stored*.
 Read more at [OpenSAFELY.org](https://opensafely.org).
+
+
+[codelists folder]:codelists
+[OpenSAFELY documentation]:https://docs.opensafely.org
+[released outputs folder]:released_outputs
+[study definition]:analysis/study_definition.py

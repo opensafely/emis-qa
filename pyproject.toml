@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "emis-qa"
+version = "0.1.0"
+description = ""
+authors = ["Iain Dillingham <iain@dillingham.me.uk>"]
+
+[tool.poetry.dependencies]
+python = "~3.8"
+opensafely = "^1.7.1"
+pandas = "^1.2.3"
+jupyterlab = "^3.0.12"
+matplotlib = "^3.4.1"
+pyarrow = "^3.0.0"
+jupyterlab-spellchecker = "^0.5.2"
+
+[tool.poetry.dev-dependencies]
+black = "^20.8b1"
+flake8 = "^3.9.0"
+ipython = "^7.21.0"
+isort = "^5.8.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
