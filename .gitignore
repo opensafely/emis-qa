@@ -1,7 +1,6 @@
 *~
-model.log
-*/input.csv
-__pycache__
+.ipynb_checkpoints/
 .python-version
-output/*
-metadata/*
+__pycache__
+metadata/
+output/
