@@ -1,0 +1,21 @@
+code,description,freq (nearest 100)
+184229000,Notes summary on computer (finding),5500
+270071005,Patient registered by FPC (finding),4000
+14734007,Administrative procedure (procedure),3100
+77248004,Infection control procedure (procedure),3100
+417662000,History of clinical finding in subject (situation),3100
+127785005,"Administration of substance to produce immunity, either active or passive (procedure)",3100
+20135006,Screening procedure (procedure),3100
+182817000,Drug prescription (situation),3100
+713511000000103,Encounter administration (record artifact),3100
+184225006,Computer record of patient (record artifact),3100
+250171008,Clinical history and observation findings (finding),2600
+183049006,Patient given advice (situation),2500
+160476009,Social / personal history observable (observable entity),2300
+185316007,Indirect encounter (procedure),1900
+184047000,Patient registration (procedure),1800
+267011001,Gynecological history (observable entity),1600
+171164006,Cervical smear due (finding),1200
+Y0384,Smear Under GMS,800
+195967001,Asthma (disorder),600
+160265008,Family history taken (situation),600
