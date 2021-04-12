@@ -1,6 +1,8 @@
 # EMIS QA
 
-This is the code and configuration for EMIS QA.
+The aim of this project is to verify the EMIS database.
+By comparing two snapshots that we generate before and after the EMIS database is rebuilt,
+we can better understand any unexpected changes in, for example, numbers of patients and numbers of practices.
 
 * Released outputs are in the [released outputs folder][].
 * If you are interested in how we defined our variables,
