@@ -9,8 +9,8 @@ REFERENCE_DATE = date.today().isoformat()
 study = StudyDefinition(
     default_expectations={
         "date": {"earliest": "1900-01-01", "latest": REFERENCE_DATE},
-        "rate": "uniform",  # Why?
-        "incidence": 0.5,  # Why?
+        "rate": "uniform",
+        "incidence": 1,
     },
     # Does this mean "Where the value of `is_registered` is True"?
     population=patients.satisfying("is_registered"),
