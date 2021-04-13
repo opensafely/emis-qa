@@ -4,8 +4,6 @@ from cohortextractor import StudyDefinition, patients
 
 REFERENCE_DATE = date.today().isoformat()
 
-# Where do we specify that this study definition should be executed against
-# the EMIS data store?
 study = StudyDefinition(
     default_expectations={
         "date": {"earliest": "1900-01-01", "latest": REFERENCE_DATE},
