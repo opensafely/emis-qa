@@ -12,13 +12,7 @@ study = StudyDefinition(
         "rate": "uniform",
         "incidence": 1,
     },
-    # Does this mean "Where the value of `is_registered` is True"?
-    population=patients.satisfying("is_registered"),
-    is_registered=patients.registered_as_of(
-        REFERENCE_DATE,
-        # We think that EMIS and TPP cover 97% of the population?
-        return_expectations={"incidence": 0.97},
-    ),
+    population=patients.registered_as_of(REFERENCE_DATE),
     date_deregistered=patients.date_deregistered_from_all_supported_practices(
         on_or_before=REFERENCE_DATE,
         date_format="YYYY-MM",
