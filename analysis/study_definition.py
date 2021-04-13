@@ -13,15 +13,6 @@ study = StudyDefinition(
         "incidence": 1,
     },
     population=patients.registered_as_of(REFERENCE_DATE),
-    date_deregistered=patients.date_deregistered_from_all_supported_practices(
-        on_or_before=REFERENCE_DATE,
-        date_format="YYYY-MM",
-        return_expectations={
-            "date": {
-                "latest": REFERENCE_DATE,
-            }
-        },
-    ),
     age=patients.age_as_of(
         REFERENCE_DATE,
         return_expectations={
