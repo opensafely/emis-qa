@@ -29,8 +29,6 @@ study = StudyDefinition(
     practice_pseudo_id=patients.registered_practice_as_of(
         REFERENCE_DATE,
         "pseudo_id",
-        # Is there a better way? We'd expect about 68% of patients to be
-        # assigned practices with IDs from 900 to 1,100.
         return_expectations={
             "int": {
                 "distribution": "normal",
