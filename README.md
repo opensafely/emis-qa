@@ -42,6 +42,23 @@ This will generate the new last snapshot, which will be identical to the current
 However, because it was executed after the summary notebook was generated,
 the summary notebook will compare the current snapshot to the old last snapshot.
 
+## Contributing
+
+For local (non-Docker) development, execute:
+
+```sh
+python3 -m venv venv
+source venv/bin/activate
+pip install --upgrade pip
+
+# Either one or the other of the following
+pip install -r requirements.txt
+pip install -r requirements.dev.txt # For also running bin/codestyle.sh
+
+# For QA
+bin/codestyle.sh .
+```
+
 ## About the OpenSAFELY framework
 
 The OpenSAFELY framework is a secure analytics platform for electronic health records research in the NHS.
