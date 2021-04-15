@@ -1,18 +1,18 @@
-from datetime import date
-
 from cohortextractor import StudyDefinition, patients
-
-REFERENCE_DATE = date.today().isoformat()
 
 study = StudyDefinition(
     default_expectations={
-        "date": {"earliest": "1900-01-01", "latest": REFERENCE_DATE},
+        "date": {"earliest": "1900-01-01", "latest": "index_date"},
         "rate": "uniform",
         "incidence": 1,
     },
-    population=patients.registered_as_of(REFERENCE_DATE),
+    # We will pass the --index-date-range argument to cohortextractor, so
+    # the value of the index_date kwarg will be replaced. However, we must
+    # supply it and it must be in YYYY-MM-DD format.
+    index_date="2021-01-01",
+    population=patients.registered_as_of("index_date"),
     age=patients.age_as_of(
-        REFERENCE_DATE,
+        "index_date",
         return_expectations={
             "rate": "universal",
             "int": {"distribution": "population_ages"},
@@ -25,7 +25,7 @@ study = StudyDefinition(
         }
     ),
     practice_pseudo_id=patients.registered_practice_as_of(
-        REFERENCE_DATE,
+        "index_date",
         "pseudo_id",
         return_expectations={
             "int": {
