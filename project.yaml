@@ -11,6 +11,13 @@ actions:
       highly_sensitive:
         cohort: output/generate_study_population/input_*.feather
 
+  concat_study_population:
+    run: python:latest python analysis/concat_study_population.py
+    needs: [generate_study_population]
+    outputs:
+      highly_sensitive:
+        cohort: output/input.feather
+
   rotate_study_population:
     run: python:latest python analysis/rotate_study_population.py
     needs: [generate_study_population]

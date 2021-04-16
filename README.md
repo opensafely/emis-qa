@@ -26,7 +26,7 @@ and a summary notebook that compares the current snapshot to the last snapshot.
 On second and subsequent runs, execute:
 
 ```sh
-opensafely run generate_study_population
+opensafely run -f concat_study_population
 opensafely run generate_summary_notebook
 ```
 
