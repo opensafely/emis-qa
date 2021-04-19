@@ -20,14 +20,14 @@ actions:
 
   rotate_study_population:
     run: python:latest python analysis/rotate_study_population.py
-    needs: [generate_study_population]
+    needs: [concat_study_population]
     outputs:
       highly_sensitive:
         cohort: output/input-last.feather
 
   generate_summary_notebook:
     run: python:latest jupyter nbconvert notebooks/summary.ipynb --to=html --output-dir=output/ --execute --ExecutePreprocessor.timeout=86400
-    needs: [generate_study_population, rotate_study_population]
+    needs: [concat_study_population, rotate_study_population]
     outputs:
       moderately_sensitive:
         notebook: output/summary.html
