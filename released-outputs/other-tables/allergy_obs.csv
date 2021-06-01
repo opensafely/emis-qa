@@ -1,0 +1,11 @@
+snomed_concept_id,c_allergy,description_allergy,c_obs,% overlap
+217673009,58900,Toxic reaction caused by wasp sting (disorder),6100,10
+190447002,30000,Steroid-induced diabetes (disorder),7900,26
+88273006,18300,Iatrogenic hypothyroidism (disorder),12700,69
+441690002,2800,Drug-induced hyperglycemia (disorder),600,21
+269275003,2300,Seafood causing toxic effect (disorder),100,4
+33211000,1500,Complication of anesthesia (disorder),100,6
+275390005,300,Toxic effect of plant (disorder),200,66
+116223007,100,Complication (disorder),1600,6
+236514003,100,Toxic nephropathy (disorder),100,100
+404684003,100,Clinical finding (finding),2266900,0

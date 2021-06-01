@@ -1,0 +1,10 @@
+snomed_concept_id,c_imms,description_imms,c_obs,% overlap
+42284007,4892000,Administration of vaccine product containing only live attenuated Mycobacterium bovis antigen (procedure),12400,0
+714731000000104,501700,Adult immunisation administration (record artifact),73700,14
+304250009,380500,Immunization status (finding),128300,33
+266758009,132900,Immunization contraindicated (situation),2200,1
+275844006,78600,Gamma globulin administration (procedure),900,1
+16584000,77000,Administration of vaccine product containing only Hepatitis B virus antigen (procedure),6200,8
+225368008,24700,Contact tracing (procedure),1500,6
+170459006,19500,Anti-D immunoglobulin given (situation),4200,21
+306691000000102,14600,Immunisation not done (situation),3200,21

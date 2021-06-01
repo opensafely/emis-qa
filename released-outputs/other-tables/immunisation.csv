@@ -1,0 +1,998 @@
+snomed_concept_id,c,description
+86198006,52738500,Administration of vaccine product containing only Influenza virus antigen (procedure)
+822851000000102,51647800,Seasonal influenza vaccination (procedure)
+171263007,36480300,Full consent for immunization (finding)
+1324681000000101,16678000,Administration of first dose of severe acute respiratory syndrome coronavirus 2 vaccine (procedure)
+822991000000104,14603100,Consent given for seasonal influenza vaccination (finding)
+985151000000100,13413600,Administration of first inactivated seasonal influenza vaccination (procedure)
+38598009,13240700,Administration of vaccine product containing only Measles morbillivirus and Mumps orthorubulavirus and Rubella virus antigens (procedure)
+171290003,12766200,Influenza vaccination consent given (finding)
+822931000000100,12531500,Seasonal influenza vaccination declined (situation)
+315641001,12138300,Influenza vaccination invitation letter sent (finding)
+200481000000107,11575500,Influenza vaccination invitation first letter sent (finding)
+77248004,11318400,Infection control procedure (procedure)
+777791000000102,11065900,Influenza vaccination invitation first short message service text message sent (finding)
+1240781000000106,10976000,Severe acute respiratory syndrome coronavirus 2 vaccination invitation short message service text message sent (situation)
+170333009,10386800,Administration of booster dose of vaccine product containing only Clostridium tetani antigen (procedure)
+711301000000108,8701600,Influenza vaccination invitation short message service text message sent (finding)
+170356000,8670300,Administration of booster dose of vaccine product containing only Human poliovirus antigen (procedure)
+170378007,7523900,Administration of first dose of pediatric vaccine product containing only Hepatitis A virus antigen (procedure)
+314414007,7273800,Administration of first dose of vaccine product containing only Neisseria meningitidis serogroup C antigen (procedure)
+127785005,7162200,"Administration of substance to produce immunity, either active or passive (procedure)"
+1324691000000104,7101800,Administration of second dose of severe acute respiratory syndrome coronavirus 2 vaccine (procedure)
+33879002,6971200,Administration of vaccine to produce active immunity (procedure)
+185903001,6924200,Needs influenza immunization (finding)
+414619005,6527200,Administration of vaccine product containing only Clostridium tetani and low dose Corynebacterium diphtheriae and inactivated Human poliovirus antigens (procedure)
+170415002,6523500,Booster diphtheria and tetanus double and polio vaccination (procedure)
+247631000000101,6495000,First pneumococcal conjugated vaccination (procedure)
+12866006,6071800,Administration of vaccine product containing only Streptococcus pneumoniae antigen (procedure)
+247641000000105,5688500,Second pneumococcal conjugated vaccination (procedure)
+47435007,5664700,Administration of vaccine product containing only Measles morbillivirus antigen (procedure)
+15483003,5279000,Administration of vaccine product containing only Salmonella enterica subspecies enterica serovar Typhi antigen (procedure)
+247651000000108,5181700,Third pneumococcal conjugated vaccination (procedure)
+314415008,5121500,Administration of second dose of vaccine product containing only Neisseria meningitidis serogroup C antigen (procedure)
+955691000000108,5102700,Seasonal influenza vaccination given by pharmacist (situation)
+428975001,5016100,Administration of vaccine product containing only Haemophilus influenzae type B and Neisseria meningitidis serogroup C antigens (procedure)
+82314000,4993500,Administration of vaccine product containing only Rubella virus antigen (procedure)
+42284007,4892000,Administration of vaccine product containing only live attenuated Mycobacterium bovis antigen (procedure)
+315640000,4822300,Influenza vaccination declined (situation)
+414259000,4544900,"Administration of first dose of vaccine product containing only five component acellular Bordetella pertussis, Clostridium tetani, Corynebacterium diphtheriae, Haemophilus influenzae type B and inactivated whole Human poliovirus antigens (procedure)"
+170431005,4530300,Administration of booster dose of vaccine product containing only Measles morbillivirus and Mumps orthorubulavirus and Rubella virus antigens (procedure)
+415712004,4499100,"Administration of third dose of vaccine product containing only five component acellular Bordetella pertussis, Clostridium tetani, Corynebacterium diphtheriae, Haemophilus influenzae type B and inactivated whole Human poliovirus antigens (procedure)"
+415507003,4487800,"Administration of second dose of vaccine product containing only five component acellular Bordetella pertussis, Clostridium tetani, Corynebacterium diphtheriae, Haemophilus influenzae type B and inactivated whole Human poliovirus antigens (procedure)"
+170402006,4322900,"Third diphtheria, pertussis and tetanus triple and polio vaccination (procedure)"
+170400003,4304000,"First diphtheria, pertussis and tetanus triple and polio vaccination (procedure)"
+170401004,4213700,"Second diphtheria, pertussis and tetanus triple and polio vaccination (procedure)"
+170343007,4157100,Administration of first dose of vaccine product containing only Haemophilus influenzae type B antigen (procedure)
+170345000,3944400,Administration of third dose of vaccine product containing only Haemophilus influenzae type B antigen (procedure)
+884861000000100,3902000,Administration of first intranasal seasonal influenza vaccination (procedure)
+170323001,3788100,Administration of booster dose of vaccine product containing only Corynebacterium diphtheriae antigen (procedure)
+170344001,3757400,Administration of second dose of vaccine product containing only Haemophilus influenzae type B antigen (procedure)
+310578008,3711400,Pneumococcal vaccination given (finding)
+170316002,3662500,Administration of first dose of vaccine product containing only Salmonella enterica subspecies enterica serovar Typhi antigen (procedure)
+777831000000109,3472800,Influenza vaccination invitation second short message service text message sent (finding)
+50583002,3468500,Administration of vaccine product containing only Mumps orthorubulavirus antigen (procedure)
+314450000,3422100,Administration of single dose of vaccine product containing only Neisseria meningitidis serogroup C antigen (procedure)
+170353008,3413200,Administration of first dose of vaccine product containing only Human poliovirus antigen (procedure)
+414620004,3347900,Administration of vaccine product containing only acellular Bordetella pertussis five component and Clostridium tetani and low dose Corynebacterium diphtheriae and inactivated whole Human poliovirus antigens (procedure)
+170432003,3294300,Administration of pre-school booster dose of vaccine product containing only Measles morbillivirus and Mumps orthorubulavirus and Rubella virus antigens (procedure)
+310375005,3266400,Immunization consent given (finding)
+170355001,3200000,Administration of third dose of vaccine product containing only Human poliovirus antigen (procedure)
+170354002,3187900,Administration of second dose of vaccine product containing only Human poliovirus antigen (procedure)
+170330007,3140500,Administration of first dose of vaccine product containing only Clostridium tetani antigen (procedure)
+170318001,2987700,Administration of booster dose of vaccine product containing only Salmonella enterica subspecies enterica serovar Typhi antigen (procedure)
+170332004,2970600,Administration of third dose of vaccine product containing only Clostridium tetani antigen (procedure)
+868631000000102,2963100,First rotavirus vaccination (procedure)
+170331006,2948200,Administration of second dose of vaccine product containing only Clostridium tetani antigen (procedure)
+515281000000108,2883200,PANDEMRIX - first influenza A (H1N1v) 2009 vaccination given (procedure)
+170381002,2860000,Administration of booster dose of vaccine product containing only Hepatitis A virus antigen (procedure)
+868651000000109,2831300,Second rotavirus vaccination (procedure)
+955661000000102,2664200,First intranasal seasonal influenza vaccination given by other healthcare provider (situation)
+314416009,2641800,Administration of third dose of vaccine product containing only Neisseria meningitidis serogroup C antigen (procedure)
+737041000,2601400,Invitation by telephone for influenza vaccination (procedure)
+859641000000109,2561600,Herpes zoster vaccination (procedure)
+314178008,2540800,Administration of first dose of vaccine product containing only Hepatitis A virus and Salmonella enterica subspecies enterica serovar Typhi antigens (procedure)
+170370000,2531200,Administration of first dose of vaccine product containing only Hepatitis B virus antigen (procedure)
+171272004,2359500,No consent - influenza immunization (finding)
+200491000000109,2333800,Influenza vaccination invitation second letter sent (finding)
+170379004,2330600,Administration of second dose of vaccine product containing only Hepatitis A virus antigen (procedure)
+170346004,2252300,Administration of booster dose of vaccine product containing only Haemophilus influenzae type B antigen (procedure)
+170371001,2230500,Administration of second dose of vaccine product containing only Hepatitis B virus antigen (procedure)
+170320003,2217900,Administration of first dose of vaccine product containing only Corynebacterium diphtheriae antigen (procedure)
+170328005,2188500,Administration of third dose of vaccine product containing only Bordetella pertussis antigen (procedure)
+720539004,2183600,Administration of first dose of vaccine product containing only Neisseria meningitidis serogroup B antigen (procedure)
+170322006,2140500,Administration of third dose of vaccine product containing only Corynebacterium diphtheriae antigen (procedure)
+170326009,2135500,Administration of first dose of vaccine product containing only Bordetella pertussis antigen (procedure)
+170321004,2120300,Administration of second dose of vaccine product containing only Corynebacterium diphtheriae antigen (procedure)
+171072005,2096000,Recommend travel vaccinations (procedure)
+170327000,2078500,Administration of second dose of vaccine product containing only Bordetella pertussis antigen (procedure)
+720540002,2032000,Administration of second dose of vaccine product containing only Neisseria meningitidis serogroup B antigen (procedure)
+428741008,1979000,Administration of first dose of vaccine product containing only Human papillomavirus antigen (procedure)
+955651000000100,1972400,Seasonal influenza vaccination given by other healthcare provider (situation)
+1788041000006107,1939200,
+390892002,1897200,Meningitis ACW & Y vaccination (procedure)
+243880000,1889100,Consent status for immunizations (finding)
+170372008,1876300,Administration of third dose of vaccine product containing only Hepatitis B virus antigen (procedure)
+171044003,1860200,Immunization education (procedure)
+714801000000104,1834000,Influenza vaccination administration (record artifact)
+170433008,1737000,Administration of second dose of vaccine product containing only Measles morbillivirus and Mumps orthorubulavirus and Rubella virus antigens (procedure)
+390865008,1717000,Administration of booster dose of vaccine product containing only acellular Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae and Human poliovirus antigens (procedure)
+401086001,1704300,Pneumococcal vaccination declined (situation)
+429396009,1698700,Administration of second dose of vaccine product containing only Human papillomavirus antigen (procedure)
+823371000000105,1572500,Administration of vaccine under patient specific direction (procedure)
+310306005,1561800,Administration of first dose of vaccine product containing only Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae and Haemophilus influenzae type B and Human poliovirus antigens (procedure)
+310308006,1553900,Administration of third dose of vaccine product containing only Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae and Haemophilus influenzae type B and Human poliovirus antigens (procedure)
+777851000000102,1531800,Influenza vaccination invitation third short message service text message sent (finding)
+310307001,1524800,Administration of second dose of Vaccine product containing only Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae and Haemophilus influenzae type B and Human poliovirus antigens (procedure)
+761311000000109,1514800,Influenza vaccination verbal invitation (procedure)
+247821000000102,1480700,"Booster diphtheria, tetanus, acellular pertussis and inactivated polio vaccination (procedure)"
+714761000000109,1463900,Child immunisation administration (record artifact)
+720544006,1438500,Administration of booster dose of vaccine product containing only Neisseria meningitidis serogroup B antigen (procedure)
+268561003,1374800,Influenza immunization advised in surgery (finding)
+283511000000105,1326200,Administration of vaccine (procedure)
+148297000,1321000,Travel vaccination given (situation)
+67308009,1300500,Administration of vaccine product containing only Yellow fever virus antigen (procedure)
+127786006,1268000,Administration of vaccine product containing only Clostridium tetani antigen (procedure)
+170421003,1266100,Administration of booster dose of vaccine product containing only Clostridium tetani and Human poliovirus antigens (procedure)
+1082441000000108,1249300,"First diphtheria, tetanus and acellular pertussis, inactivated polio, Haemophilus influenzae type b and hepatitis B vaccination (procedure)"
+395665009,1242500,Administration of single dose of vaccine product containing only Salmonella enterica subspecies enterica serovar Typhi antigen (procedure)
+868491000000103,1242200,No consent for seasonal influenza vaccination (finding)
+1082451000000106,1205300,"Second diphtheria, tetanus and acellular pertussis, inactivated polio, Haemophilus influenzae type b and hepatitis B vaccination (procedure)"
+428931000,1204600,Administration of third dose of vaccine product containing only Human papillomavirus antigen (procedure)
+170409002,1182700,Tetanus and low dose diphtheria double vaccination (procedure)
+1082461000000109,1172900,"Third diphtheria, tetanus and acellular pertussis, inactivated polio, Haemophilus influenzae type b and hepatitis B vaccination (procedure)"
+41088001,1136800,Administration of vaccine product containing only Neisseria meningitidis antigen (procedure)
+313188000,1132200,First hepatitis A junior vaccination (procedure)
+300038004,1099600,Administration of booster dose of vaccine product containing only Bordetella pertussis antigen (procedure)
+994281000006107,1085000,
+956951000000104,1075100,Pertussis vaccination in pregnancy (procedure)
+314848002,950800,Consent given for pneumococcal vaccine (finding)
+72093006,944000,Administration of vaccine product containing only Human poliovirus antigen (procedure)
+1095821000000105,936800,Influenza vaccination first telephone invitation (procedure)
+170334003,934700,Administration of final dose of vaccine product containing only Clostridium tetani antigen (procedure)
+11934921000006109,915200,
+11934961000006103,897900,
+14747002,796600,Elective immunization for international travel (procedure)
+185559001,744300,Child immunization - first call (procedure)
+170408005,688300,Booster diphtheria and tetanus double vaccination (procedure)
+700358002,685700,Administration of booster dose of vaccine product containing only Neisseria meningitidis serogroup C antigen (procedure)
+200501000000103,684100,Influenza vaccination invitation third letter sent (finding)
+170373003,664500,Administration of booster dose of vaccine product containing only Hepatitis B virus antigen (procedure)
+170317006,652800,Administration of second dose of vaccine product containing only Salmonella enterica subspecies enterica serovar Typhi antigen (procedure)
+170399005,646600,"Diphtheria, pertussis and tetanus triple and polio vaccination (procedure)"
+415118009,641900,Pneumococcal vaccination invitation letter sent (finding)
+171258008,616800,Up-to-date with immunizations (finding)
+868551000000105,611000,Herpes zoster vaccination declined (situation)
+268558004,593600,Immunization status screening (procedure)
+170395004,581100,"First diphtheria, pertussis and tetanus triple vaccination (procedure)"
+1091001000000108,580000,Combined measles and rubella vaccination (procedure)
+170397007,556500,"Third diphtheria, pertussis and tetanus triple vaccination (procedure)"
+1104611000000109,552200,Immunisation offered (situation)
+170434002,546900,Administration of first dose of vaccine product containing only Hepatitis A and Hepatitis B virus antigens (procedure)
+170396003,536700,"Second diphtheria, pertussis and tetanus triple vaccination (procedure)"
+170412004,533100,First diphtheria and tetanus double and polio vaccination (procedure)
+442101005,529700,Medically fit for immunization (finding)
+39343008,517300,Administration of vaccine product containing only Bordetella pertussis antigen (procedure)
+270898008,506700,Diphtheria and tetanus double and polio vaccination (procedure)
+714731000000104,501700,Adult immunisation administration (record artifact)
+171292006,488400,No consent pneumococcal immunization (finding)
+896011000000102,484000,Herpes zoster vaccination invitation first letter (procedure)
+170413009,476100,Second diphtheria and tetanus double and polio vaccination (procedure)
+868241000000109,468300,Administration of intranasal influenza vaccination (procedure)
+170414003,467900,Third diphtheria and tetanus double and polio vaccination (procedure)
+243789007,466300,Administration of vaccine product containing only Hepatitis A virus antigen (procedure)
+895931000000104,464500,Herpes zoster vaccination invitation (procedure)
+957671000000103,460700,First meningitis ACW and Y vaccination (procedure)
+170365007,446400,Administration of first dose of vaccine product containing only Rabies lyssavirus antigen (procedure)
+380271000000101,443100,Consent given for pandemic influenza vaccination (finding)
+275983007,431700,Influenza immunization advised (finding)
+390846000,428600,Administration of booster dose of vaccine product containing only acellular Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae antigens (procedure)
+170366008,422800,Administration of second dose of vaccine product containing only Rabies lyssavirus antigen (procedure)
+395181003,409800,Administration of booster dose of vaccine product containing only Clostridium tetani and low dose Corynebacterium diphtheriae antigens (procedure)
+408436009,397100,Recommendation to caregiver regarding child's immunizations (procedure)
+170435001,395100,Administration of second dose of vaccine product containing only Hepatitis A and B virus antigens (procedure)
+170367004,386600,Administration of third dose of vaccine product containing only Rabies lyssavirus antigen (procedure)
+838601000000103,382100,Measles mumps rubella catch-up vaccination invitation (procedure)
+304250009,380500,Immunization status (finding)
+413908002,346800,Consent given for measles mumps and rubella vaccine (finding)
+871751000000104,344800,Administration of first intranasal influenza vaccination (procedure)
+201741000000102,343700,Did not attend child immunisation (finding)
+1037351000000105,339500,First inactivated seasonal influenza vaccination given by pharmacist (situation)
+957751000000103,336800,Meningitis ACW and Y vaccination given by other healthcare provider (situation)
+1823991000006101,334500,
+308081000000105,311300,Measles mumps and rubella vaccination - first dose (procedure)
+1743461000006103,306300,
+1743451000006100,306000,
+314417000,303300,Administration of vaccine product containing only Neisseria meningitidis serogroup A and C antigens (procedure)
+380381000000108,291600,Pandemic influenza vaccination declined (situation)
+712834006,289700,Administration of first dose of vaccine product containing only Haemophilus influenzae type B and Neisseria meningitidis serogroup C antigens (procedure)
+1095831000000107,283300,Influenza vaccination second telephone invitation (procedure)
+313189008,282600,Second hepatitis A junior vaccination (procedure)
+370822003,275400,Implementation of aseptic technique (procedure)
+310376006,273500,Immunization consent not given (finding)
+867491000000104,272000,Child immunisation invitation first short message service text message (procedure)
+170311007,268400,Administration of first dose of vaccine product containing only Vibrio cholerae antigen (procedure)
+957541000000105,268400,Third meningitis B vaccination (procedure)
+247951000000102,267900,Requires a pneumococcal vaccination (finding)
+183085006,267400,Pneumococcal immunization advised in surgery (situation)
+170436000,265800,Administration of third dose of vaccine product containing only Hepatitis A and Hepatitis B virus antigens (procedure)
+399014008,264600,Administration of vaccine product containing only Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae antigens (procedure)
+170428009,257800,"First Haemophilus influenzae type B and diphtheria, tetanus and pertussis vaccine given (situation)"
+268503002,257600,Normal immunoglobulin given (situation)
+171288004,254800,No immunization history record (finding)
+171279008,247300,Immunization due (finding)
+170430006,247100,"Third Haemophilus influenzae type B and diphtheria, tetanus and pertussis vaccine given (situation)"
+394678003,246500,Administration of booster dose of vaccine product containing only Streptococcus pneumoniae antigen (procedure)
+1239861000000100,242400,Seasonal influenza vaccination given in school (situation)
+170429001,239800,"Second Haemophilus influenzae type B and diphtheria, tetanus and pertussis vaccine given (situation)"
+844961000000102,238400,Influenza vaccination invitation first email (procedure)
+202301000000106,232800,First pandemic influenza vaccination (procedure)
+200811000000103,230900,First pneumococcal vaccination invitation letter sent (finding)
+416591003,228900,Administration of first dose of vaccine product containing only Clostridium tetani and low dose Corynebacterium diphtheriae and inactivated Human poliovirus antigens (procedure)
+860151000000103,228800,Influenza vaccination first verbal invitation (procedure)
+310551000000106,227700,"Booster diphtheria tetanus and five component acellular pertussis, haemophilus influenzae type b, inactivated polio vaccination (procedure)"
+775181000000106,222500,"Measles, mumps and rubella vaccination invitation short message service text message sent (situation)"
+1324811000000107,217400,Severe acute respiratory syndrome coronavirus 2 immunisation course declined (situation)
+955641000000103,216200,Influenza vaccination given by other healthcare provider (situation)
+1626251000006101,213400,
+314179000,210500,Administration of second dose of vaccine product containing only Hepatitis A virus and Salmonella enterica subspecies enterica serovar Typhi antigens (procedure)
+1411000119106,206800,Influenza vaccine needed (situation)
+844941000000103,205700,Influenza vaccination invitation email (procedure)
+950331000000105,205300,Pneumococcal vaccination invitation short message service text message sent (situation)
+417211006,200600,Administration of first booster of vaccine product containing only Clostridium tetani and low dose Corynebacterium diphtheriae and inactivated Human poliovirus antigens (procedure)
+199331000000106,198800,Did not attend influenza vaccination appointment (finding)
+417384007,194200,Administration of second booster of vaccine product containing only Clostridium tetani and low dose Corynebacterium diphtheriae and inactivated Human poliovirus antigens (procedure)
+1931951000006103,193900,
+1324721000000108,188300,Severe acute respiratory syndrome coronavirus 2 vaccination dose declined (situation)
+896071000000107,188000,Herpes zoster vaccination invitation short message service text message (procedure)
+170380001,185900,Administration of third dose of vaccine product containing only Hepatitis A virus antigen (procedure)
+185560006,184000,Child immunization - second call (procedure)
+515371000000101,183200,No consent for influenza A (H1N1v) 2009 vaccination (finding)
+412743000,181500,Booster hepatitis A junior vaccination (procedure)
+247151000000100,180700,"Measles, mumps and rubella vaccination declined (situation)"
+1026201000000102,179400,Meningitis ACW and Y vaccination invitation (procedure)
+394691002,178200,Administration of booster dose of vaccine product containing only Hepatitis A virus and Salmonella enterica subspecies enterica serovar Typhi antigens (procedure)
+774621000000102,176600,"Measles, mumps and rubella vaccination invitation (procedure)"
+310373003,173700,Immunization advised (finding)
+40001004,168800,Administration of vaccine product containing only Vaccinia virus antigen (procedure)
+170312000,165800,Administration of second dose of vaccine product containing only Vibrio cholerae antigen (procedure)
+822971000000103,161200,Seasonal influenza vaccination not indicated (situation)
+884881000000109,159300,Administration of second intranasal seasonal influenza vaccination (procedure)
+723620004,159000,Requires vaccination (finding)
+1048981000000100,158800,Meningitis ACW and Y vaccination invitation first letter (procedure)
+414001002,157400,Administration of vaccine product containing only five component acellular Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae and Haemophilus influenzae type B and inactivated whole Human poliovirus antigens (procedure)
+171259000,156500,Not up to date with immunizations (finding)
+268499008,155300,Administration of vaccine product containing only Clostridium tetani and Human poliovirus antigens (procedure)
+76668005,152700,Administration of vaccine product containing only Corynebacterium diphtheriae antigen (procedure)
+856711000006102,148800,
+885971000000103,146300,First intranasal seasonal influenza vaccination declined (situation)
+170374009,144600,Administration of fourth dose of vaccine product containing only Hepatitis B virus antigen (procedure)
+515341000000107,141300,PANDEMRIX - first influenza A (H1N1v) 2009 vaccination given by other healthcare provider (finding)
+1788051000006109,139400,
+741055004,137900,Education about child immunization (procedure)
+171280006,134300,"No consent for measles, mumps and rubella vaccine (finding)"
+11934931000006107,133900,
+865061000000108,133300,First hepatitis B junior vaccination (procedure)
+868111000000100,133000,Pre-school booster immunisation invitation first letter (procedure)
+266758009,132900,Immunization contraindicated (situation)
+49083007,125300,Administration of vaccine product containing virus antigen (procedure)
+394989007,124800,Missed childhood immunizations (situation)
+340801000000104,120800,Pneumococcal vaccination verbal invitation (procedure)
+314761009,120700,Administration of first dose of vaccine product containing only Japanese encephalitis virus antigen (procedure)
+185563008,120400,Child immunization - first default recall (procedure)
+185901004,119400,Has influenza vaccination at surgery (finding)
+865081000000104,119400,Second hepatitis B junior vaccination (procedure)
+407573008,117300,Influenza vaccination not indicated (situation)
+171273009,116600,Immunization invitation - not attended (finding)
+868601000000108,116000,No consent for herpes zoster vaccination (finding)
+1095841000000103,115800,Influenza vaccination third telephone invitation (procedure)
+11935081000006108,112900,
+865901000000108,111600,Pertussis vaccination in pregnancy invitation (procedure)
+170405008,107300,First diphtheria and tetanus double vaccination (procedure)
+1931921000006107,106500,
+698353005,104000,Requires influenza virus vaccination (finding)
+865101000000105,103600,Third hepatitis B junior vaccination (procedure)
+385822007,102400,Universal precautions (procedure)
+1957571000006106,100800,
+840534001,98800,Severe acute respiratory syndrome coronavirus 2 vaccination (procedure)
+185561005,98700,Child immunization - third call (procedure)
+2009471000006104,98400,
+170537006,98200,Requires a tetanus booster (finding)
+314762002,97300,Administration of second dose of vaccine product containing only Japanese encephalitis virus antigen (procedure)
+73152006,95400,Administration of vaccine product containing only Clostridium tetani and Corynebacterium diphtheriae antigens (procedure)
+271511000,95400,Hepatitis B immune (finding)
+425897001,94600,Administration of first dose of vaccine product containing only Human alphaherpesvirus 3 antigen for chickenpox (procedure)
+1619641000006104,94600,
+515301000000109,94000,PANDEMRIX - second influenza A (H1N1v) 2009 vaccination given (procedure)
+171278000,93700,Immunization status unknown (finding)
+268559007,92800,No consent for any immunization (finding)
+312872008,92300,Administration of vaccine product containing bacteria and virus antigens (procedure)
+170540006,91300,Requires typhoid vaccination (finding)
+904251000006102,90900,
+28877009,90700,Administration of vaccine product containing only Vibrio cholerae antigen (procedure)
+1854681000006109,89900,
+170407000,87900,Third diphtheria and tetanus double vaccination (procedure)
+308753004,87900,Subcutaneous injection of Pneumovax II (procedure)
+170541005,87100,Requires a hepatitis A vaccination (finding)
+313383003,86700,Administration of fourth dose of vaccine product containing only Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae and Haemophilus influenzae type B and Human poliovirus antigens (procedure)
+867971000000108,86500,12-13 month immunisation invitation first letter (procedure)
+855731000006100,86300,
+170406009,86100,Second diphtheria and tetanus double vaccination (procedure)
+956971000000108,85400,Pertussis vaccination in pregnancy given by other healthcare provider (finding)
+170313005,83400,Administration of booster dose of vaccine product containing only Vibrio cholerae antigen (procedure)
+1931931000006105,82700,
+591000119102,81500,Vaccine refused by patient (situation)
+170324007,80200,Administration of low dose vaccine product containing only Corynebacterium diphtheriae antigen (procedure)
+275844006,78600,Gamma globulin administration (procedure)
+170437009,77200,Administration of booster dose of vaccine product containing only Hepatitis A and Hepatitis B virus antigens (procedure)
+16584000,77000,Administration of vaccine product containing only Hepatitis B virus antigen (procedure)
+415354003,76200,Administration of vaccine product containing only Rotavirus antigen (procedure)
+1850981000006108,75800,
+11934971000006105,74800,
+887931000000109,74800,Parent/guardian not aware of any contraindication to immunisation (finding)
+425457005,72200,History of vaccination (situation)
+1727801000006109,71700,
+1698991000006109,71700,
+390796006,71600,Influenza vaccination contraindicated (situation)
+913961000000102,71100,Education about influenza vaccination (procedure)
+34631000,71000,Administration of vaccine product containing only Rabies lyssavirus antigen (procedure)
+1931901000006102,70900,
+412762002,69800,Administration of first dose of vaccine product containing only acellular Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae and Human poliovirus antigens (procedure)
+281040003,69300,Pre-school diphtheria and tetanus double and polio vaccination (procedure)
+395178008,69100,Administration of first dose of vaccine product containing only Clostridium tetani and low dose Corynebacterium diphtheriae antigens (procedure)
+375971000000107,67600,Consent given for human papillomavirus vaccination (finding)
+463801000000108,66900,"[V]Diphtheria-tetanus-pertussis, combined (DTP) vaccination (situation)"
+955681000000106,66600,Second intranasal seasonal influenza vaccination given by other healthcare provider (situation)
+1324741000000101,65800,Severe acute respiratory syndrome coronavirus 2 vaccination first dose declined (situation)
+1931911000006104,65600,
+843231000000104,65200,Oral typhoid vaccination (procedure)
+882761000000103,65000,Booster meningitis C vaccination given by other healthcare provider (finding)
+844981000000106,62200,Influenza vaccination invitation second email (procedure)
+866141000000103,60900,Pertussis vaccination in pregnancy invitation first letter (procedure)
+896031000000105,58700,Herpes zoster vaccination invitation second letter (procedure)
+185900003,57300,Has influenza vaccination at home (finding)
+11639611000006109,56800,
+935351000000106,56800,Long term indication for seasonal influenza vaccination (situation)
+714821000000108,56300,Pneumococcal vaccination administration (record artifact)
+382551000000109,55900,Pneumococcal vaccination given by other healthcare provider (finding)
+868051000000102,55600,Second measles mumps rubella immunisation invitation first letter (procedure)
+412764001,55300,Administration of third dose of vaccine product containing only acellular Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae and Human poliovirus antigens (procedure)
+150971000119104,54600,"Measles, mumps and rubella vaccination given (situation)"
+11999007,54500,Inactive tuberculosis (disorder)
+412763007,53700,Administration of second dose of vaccine product containing only acellular Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae and Human poliovirus antigens (procedure)
+945831000000105,53300,First intramuscular seasonal influenza vaccination given by other healthcare provider (situation)
+1010051000006106,51100,
+312871001,50100,Administration of vaccine product containing bacteria antigen (procedure)
+1929061000006104,49600,
+571611000119101,49300,Administration of varicella live vaccine (procedure)
+170418000,48900,Administration of first dose of vaccine product containing only Clostridium tetani and Human poliovirus antigens (procedure)
+11935021000006109,47900,
+698613000,47600,Dengue fever outbreak education (procedure)
+417615007,47200,Administration of second dose of vaccine product containing only Clostridium tetani and low dose Corynebacterium diphtheriae and inactivated Human poliovirus antigens (procedure)
+283431000000103,47100,Intramuscular injection of vaccine (procedure)
+171267008,46100,No consent - tetanus immunization (finding)
+1779711000006108,45900,
+170545001,45600,Requires a yellow fever vaccination (finding)
+416059007,44800,Administration of booster dose of vaccine product containing only Rabies lyssavirus antigen (procedure)
+494861000000108,43400,Meningitis C vaccination offered (situation)
+871521000000104,42900,First intranasal influenza vaccination declined (situation)
+957791000000106,42700,Meningitis ACW and Y vaccination declined (situation)
+335051000000104,42400,"Booster diphtheria, tetanus, acellular pertussis, haemophilus influenzae type b, inactivated polio vaccination (procedure)"
+170358004,40800,First smallpox vaccination - successful (situation)
+1911831000006106,40200,
+1990841000006107,40000,
+511781000000101,39000,Advice given about Influenza A virus subtype H1N1 infection (situation)
+927251000000109,37600,Measles mumps and rubella booster vaccination invitation first letter (procedure)
+412161000000105,37600,[V]Poliomyelitis vaccination (situation)
+965851000000105,37200,Human papillomavirus vaccination given by other healthcare provider (situation)
+200821000000109,37200,Second pneumococcal vaccination invitation letter sent (finding)
+314763007,35900,Administration of third dose of vaccine product containing only Japanese encephalitis virus antigen (procedure)
+838571000000105,35500,Human papillomavirus vaccination invitation first letter (procedure)
+505001000000109,35500,Measles mumps rubella catch-up vaccination (procedure)
+171282003,35500,Influenza immunization advised at home (finding)
+170542003,35400,Requires course of hepatitis B vaccination (finding)
+428502009,35300,Administration of second dose of vaccine product containing only Human alphaherpesvirus 3 antigen for chickenpox (procedure)
+416144004,34900,Administration of third dose of vaccine product containing only Clostridium tetani and low dose Corynebacterium diphtheriae and inactivated Human poliovirus antigens (procedure)
+985171000000109,33800,Administration of second inactivated seasonal influenza vaccination (procedure)
+171274003,33800,Immunization invitation - not replied (finding)
+415119001,33300,Pneumococcal vaccination not indicated (situation)
+845001000000101,33200,Influenza vaccination invitation third email (procedure)
+310840001,32900,"No consent for second measles, mumps and rubella vaccine (finding)"
+185564002,32800,Child immunization - second default recall (procedure)
+865151000000106,32400,First combined paediatric hepatitis A and B vaccination (procedure)
+868731000000107,32200,No consent for rotavirus vaccination (finding)
+868131000000108,31700,Pre-school booster immunisation invitation second letter (procedure)
+170419008,31600,Administration of second dose of vaccine product containing only Clostridium tetani and Human poliovirus antigens (procedure)
+170544002,30500,Requires a meningitis vaccination (finding)
+958381000000107,30300,First meningitis B vaccination given by other healthcare provider (situation)
+1049001000000103,29900,Meningitis ACW and Y vaccination invitation second letter (procedure)
+856781000006109,29700,
+867671000000101,29500,First primary immunisation invitation first letter (procedure)
+494841000000107,28800,"Measles, mumps and rubella vaccination offered (situation)"
+1037311000000106,28400,First intranasal seasonal influenza vaccination given by pharmacist (situation)
+170539009,28200,Requires polio vaccination (finding)
+860171000000107,27900,Influenza vaccination second verbal invitation (procedure)
+1240601000000108,27800,High priority for severe acute respiratory syndrome coronavirus 2 vaccination (finding)
+505031000000103,27700,Measles mumps rubella catch-up vaccination declined (situation)
+511771000000103,27600,Advice on pneumococcal vaccination (procedure)
+822951000000107,27600,Seasonal influenza vaccination contraindicated (situation)
+11935061000006103,27300,
+1990851000006109,27100,
+170420002,26900,Administration of third dose of vaccine product containing only Clostridium tetani and Human poliovirus antigens (procedure)
+856721000006105,26800,
+225368008,24700,Contact tracing (procedure)
+868531000000103,23900,Herpes zoster vaccination contraindicated (situation)
+1682631000006100,23700,
+1961411000006104,22900,
+310839003,22500,No consent for measles/mumps/rubella one (finding)
+1687301000006104,22500,
+170543008,22400,Requires rabies vaccination course (finding)
+4521000175102,22300,Measles mumps and rubella vaccination not done (situation)
+416928007,21900,Has influenza vaccination at work (finding)
+281658005,21900,Administration of vaccine product containing only Tick-borne encephalitis virus antigen (procedure)
+518961000000102,21800,Consent given for influenza A subtype H1N1 vaccination (finding)
+51116004,21800,Passive immunization (procedure)
+1990831000006102,21800,
+185565001,20600,Child immunization - third default recall (procedure)
+413104004,20600,"Did not attend diphtheria, tetanus and acellular pertussis, polio and measles, mumps and rubella vaccine booster (finding)"
+958401000000107,20500,Second meningitis B vaccination given by other healthcare provider (situation)
+871781000000105,20400,Administration of second intranasal influenza vaccination (procedure)
+303010008,20400,Hepatitis A gamma globulin given (situation)
+1037251000000102,20200,First measles mumps and rubella vaccination given by other healthcare provider (finding)
+170459006,19500,Anti-D immunoglobulin given (situation)
+1855171000006103,19400,
+857351000006100,19200,
+838561000000103,19100,Human papillomavirus vaccination invitation (procedure)
+774801000000105,18900,Influenza A virus subtype H1N1 vaccination invitation short message service text message sent (finding)
+395179000,18800,Administration of second dose of vaccine product containing only Clostridium tetani and low dose Corynebacterium diphtheriae antigens (procedure)
+892261000000105,18700,Herpes zoster vaccination offered (situation)
+412755006,18700,Administration of first dose of vaccine product containing only acellular Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae antigens (procedure)
+866641000000105,18500,Pertussis vaccination in pregnancy declined (situation)
+865121000000101,18400,Fourth hepatitis B junior vaccination (procedure)
+429069001,18300,Requires Bacillus Calmette-Guerin vaccination (finding)
+971021000006105,18000,
+867511000000107,18000,Child immunisation invitation second short message service text message (procedure)
+868161000000103,17700,Pre-school booster immunisation invitation third letter (procedure)
+201631000000101,17600,Advice on yellow fever vaccination (procedure)
+1958151000006105,17300,
+736818002,17200,Influenza vaccination requested (situation)
+395180002,16900,Administration of third dose of vaccine product containing only Clostridium tetani and low dose Corynebacterium diphtheriae antigens (procedure)
+278971009,16800,Hepatitis A immune (finding)
+412756007,16600,Administration of second dose of vaccine product containing only acellular Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae antigens (procedure)
+412757003,16000,Administration of third dose of vaccine product containing only acellular Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae antigens (procedure)
+515291000000105,15800,CELVAPAN - first influenza A (H1N1v) 2009 vaccination given (procedure)
+516101000000103,15700,No response to influenza vaccination invitation (finding)
+314936001,15500,No consent for meningitis C immunization (finding)
+371113008,15500,Varicella immune (finding)
+1037271000000106,15300,Second measles mumps and rubella vaccination given by other healthcare provider (finding)
+275841003,15300,Pre-school diphtheria and tetanus double vaccination (procedure)
+170375005,15200,Administration of fifth dose of vaccine product containing only Hepatitis B virus antigen (procedure)
+868511000000106,15100,Herpes zoster vaccination given by other health care provider (finding)
+380741000000101,14800,First pandemic influenza vaccination given by other healthcare provider (finding)
+309931000000101,14700,Meticillin resistant staphylococcus aureus decontamination therapy (regime/therapy)
+306691000000102,14600,Immunisation not done (situation)
+896051000000103,14200,Herpes zoster vaccination invitation third letter (procedure)
+714721000000101,14200,Immunisation administration (record artifact)
+1850871000006104,14100,
+865171000000102,14000,Second combined paediatric hepatitis A and B vaccination (procedure)
+711831000000107,13700,High priority for influenza A subtype H1N1 vaccination (finding)
+1727781000006105,13600,
+913111000000102,13400,Second measles mumps rubella immunisation first telephone invitation (procedure)
+868011000000101,13300,12-13 month immunisation invitation second letter (procedure)
+171275002,13200,Immunization invitation - not reached (finding)
+197961000000108,13000,Did not attend travel vaccination (finding)
+171265000,13000,No consent - pertussis immunization (finding)
+1961401000006102,12800,
+200841000000102,12600,Third pneumococcal vaccination invitation letter sent (finding)
+1682621000006103,12500,
+151061000119101,12500,Tetanus toxoid vaccination given (situation)
+268560002,12300,Medical C/I - immunization (situation)
+438765003,12300,Human papillomavirus vaccination declined (situation)
+171285001,12200,No consent - pre-school vaccinations (finding)
+908671000000105,12200,Pertussis vaccination given by other healthcare provider (finding)
+1882471000006105,12100,
+1240651000000109,12000,Severe acute respiratory syndrome coronavirus 2 vaccination declined (situation)
+838581000000107,12000,Human papillomavirus vaccination invitation second letter (procedure)
+170360002,11900,Administration of second dose of vaccine product containing only Vaccinia virus antigen (procedure)
+955701000000108,11900,Seasonal influenza vaccination given while hospital inpatient (situation)
+425569004,11700,Hepatitis B immunization recommended (situation)
+414449004,11600,Identified as low risk for travel immunization (finding)
+1992951000006104,11500,
+884901000000107,11500,First intranasal pandemic influenza vaccination given by other healthcare provider (finding)
+707085002,10600,At high risk of tuberculosis infection (finding)
+866191000000108,10500,Pertussis vaccination in pregnancy invitation second letter (procedure)
+868071000000106,10300,Second measles mumps rubella immunisation invitation second letter (procedure)
+390795005,9800,Pneumococcal vaccination contraindicated (situation)
+867791000000109,9700,Third primary immunisation invitation first letter (procedure)
+1850931000006107,9700,
+1066171000000108,9600,Seasonal influenza vaccination given by midwife (situation)
+868711000000104,9500,Rotavirus vaccination declined (situation)
+516051000000103,9400,Hepatitis A vaccination invitation (procedure)
+408778004,9400,Hepatitis B immunization declined (situation)
+1961361000006107,9400,
+1324851000000106,9200,Severe acute respiratory syndrome coronavirus 2 immunisation course started (situation)
+171283008,9200,No consent for any primary immunization (finding)
+473169009,9000,History of influenza vaccination (situation)
+202311000000108,9000,Second pandemic influenza vaccination (procedure)
+868691000000101,8900,Rotavirus vaccination contraindicated (situation)
+170538001,8700,Requires full course of tetanus vaccination (finding)
+171271006,8600,No consent - bacillus Calmette-Guerin (finding)
+463641000000107,8500,[V]Cholera with typhoid-paratyphoid vaccination (situation)
+315335004,8500,Administration of booster dose of vaccine product containing only Japanese encephalitis virus antigen (procedure)
+1957521000006105,8400,
+413106002,8200,"Did not attend third diphtheria, tetanus and pertussis, Haemophilus influenzae type B and polio vaccination (finding)"
+764141000000106,8100,Second Haemophilus influenzae type B and Neisseria meningitidis serotype C combination vaccination (procedure)
+1324821000000101,8100,Severe acute respiratory syndrome coronavirus 2 immunisation course not done (situation)
+1882411000006101,8100,
+957691000000104,8000,Second meningitis ACW and Y vaccination (procedure)
+886011000000103,8000,Second intranasal seasonal influenza vaccination declined (situation)
+171268003,8000,No consent - polio immunization (finding)
+1049021000000107,7900,Meningitis ACW and Y vaccination invitation third letter (procedure)
+299161000000100,7800,Haemophilus influenzae type B and meningitis C vaccination declined (situation)
+867471000000103,7800,Child immunisation invitation third short message service text message (procedure)
+860291000000101,7800,Influenza vaccination third verbal invitation (procedure)
+1082431000000104,7600,"Diphtheria, tetanus and acellular pertussis, inactivated polio, Haemophilus influenzae type b and hepatitis B vaccination (procedure)"
+1916781000006105,7400,
+412742005,7400,Third hepatitis A junior vaccination (procedure)
+1931941000006100,7400,
+867731000000108,7300,Second primary immunisation invitation first letter (procedure)
+838591000000109,7300,Human papillomavirus vaccination invitation third letter (procedure)
+896091000000106,7200,Herpes zoster vaccination invitation email (procedure)
+414448007,7200,Identified as high risk for travel immunization (finding)
+1324751000000103,7200,Severe acute respiratory syndrome coronavirus 2 vaccination second dose declined (situation)
+949171000006105,7000,
+511571000000106,7000,"Diphtheria, tetanus, acellular pertussis, inactivated polio vaccine, haemophilus influenzae type b immunisation declined (situation)"
+855691000006108,6900,
+1961371000006100,6900,
+171291004,6800,No consent - Haemophilus influenzae type B immunization (finding)
+414940009,6800,On tuberculosis chemoprophylaxis (finding)
+379241000000107,6700,"Booster diphtheria tetanus and three component acellular pertussis, haemophilus influenzae type b, inactivated polio vaccination (procedure)"
+122541000119104,6700,Vaccination needed (situation)
+375821000000103,6700,No consent for human papillomavirus vaccination (finding)
+894471000000108,6700,Disposable device used (finding)
+413105003,6600,"Did not attend second diphtheria, tetanus and pertussis, Haemophilus influenzae type B and polio vaccination (finding)"
+183936003,6600,Contraindication to live immunization (situation)
+868031000000109,6500,12-13 month immunisation invitation third letter (procedure)
+170338000,6500,Administration of first dose of vaccine product containing only Bacillus anthracis antigen (procedure)
+278968001,6400,Rubella immune (finding)
+720548009,6400,Meningitis B vaccination declined (situation)
+415760001,6300,Tuberculosis status (observable entity)
+698604002,6300,Hepatitis B outbreak education (procedure)
+913131000000105,6300,Second measles mumps rubella immunisation second telephone invitation (procedure)
+380801000000105,6200,Pandemic influenza vaccination not indicated (situation)
+856801000006108,6200,
+698950001,6200,Influenza A virus subtype H1N1 vaccination declined (situation)
+1324731000000105,6000,Severe acute respiratory syndrome coronavirus 2 immunisation course not indicated (situation)
+275974002,6000,Measles/mumps/rubella vaccine contraindicated (situation)
+1682641000006105,5900,
+1931961000006101,5900,
+170425007,5800,Typhoid and Paratyphoid first dose (procedure)
+882181000000108,5800,Did not attend first intranasal seasonal influenza vaccination (finding)
+882201000000107,5500,First rotavirus vaccination declined (situation)
+11934981000006108,5300,
+783521000000106,5300,First tick-borne encephalitis vaccination (procedure)
+783541000000104,5300,Second tick-borne encephalitis vaccination (procedure)
+283451000000105,5200,Subcutaneous injection of vaccine (procedure)
+314768003,5100,"No consent diphtheria, tetanus, pertussis immunization (finding)"
+401179006,5100,No previous immunizations (situation)
+1961421000006107,5000,
+1863771000006109,4900,
+857601000006105,4900,
+1880421000006108,4900,
+1850881000006101,4800,
+891871000000108,4800,Fourth rabies vaccination (procedure)
+570001,4800,Vaccination for arthropod-borne viral encephalitis (procedure)
+516411000000108,4700,Did not attend measles mumps and rubella vaccination (finding)
+882221000000103,4700,Second rotavirus vaccination declined (situation)
+11935111000006102,4700,
+185902006,4600,Has influenza vaccination at hospital (finding)
+504511000000102,4600,Did not attend for measles mumps rubella catch-up vaccination (finding)
+511531000000109,4600,"Diphtheria, tetanus, acellular pertussis, inactivated polio vaccine immunisation declined (situation)"
+856731000006108,4600,
+1850921000006109,4500,
+1727811000006107,4500,
+515361000000108,4500,PANDEMRIX - second influenza A (H1N1v) 2009 vaccination given by other healthcare provider (finding)
+452831000000104,4400,[V]Typhoid-paratyphoid (TAB) vaccination (situation)
+171257003,4400,No consent - Tetanus/low dose diphtheria vaccine (finding)
+1850951000006100,4300,
+981971000006101,4300,
+413103005,4300,"Did not attend diphtheria, tetanus and pertussis, Haemophilus influenzae type B and polio vaccination (finding)"
+958421000000103,4200,Third meningitis B vaccination given by other healthcare provider (situation)
+473165003,4200,History of pneumococcal vaccination (situation)
+170339008,4200,Administration of second dose of vaccine product containing only Bacillus anthracis antigen (procedure)
+700359005,4100,Booster meningitis C vaccination declined (situation)
+1694721000006103,4100,
+1036741000000108,4000,Second rotavirus vaccination given by other health care provider (finding)
+868671000000100,4000,Rotavirus vaccination given by other health care provider (finding)
+1036721000000101,3900,First rotavirus vaccination given by other health care provider (finding)
+515321000000100,3900,CELVAPAN - second influenza A (H1N1v) 2009 vaccination given (procedure)
+866251000000106,3900,Pertussis vaccination in pregnancy invitation third letter (procedure)
+777771000000101,3900,Human papillomavirus vaccination invitation second short message service text message sent (situation)
+170427004,3800,Typhoid and Paratyphoid reinforcing dose (procedure)
+868091000000105,3800,Second measles mumps rubella immunisation invitation third letter (procedure)
+1682651000006107,3700,
+519421000000105,3600,Did not attend haemophilus influenzae type B and meningitis C vaccination (finding)
+865191000000103,3600,Third combined paediatric hepatitis A and B vaccination (procedure)
+777611000000100,3600,Quadrivalent human papillomavirus vaccination (procedure)
+1010031000006104,3600,
+1728461000006108,3500,
+903281000000100,3500,"Diphtheria, tetanus, inactivated polio vaccination declined (situation)"
+395703005,3500,Meningitis C immunization refused (situation)
+1850911000006101,3500,
+2009481000006101,3500,
+855791000006101,3400,
+170340005,3400,Administration of third dose of vaccine product containing only Bacillus anthracis antigen (procedure)
+1850971000006105,3400,
+310372008,3300,Immunization invitation status (finding)
+473166002,3300,"History of measles, mumps and rubella vaccination (situation)"
+1744671000006106,3300,
+1324761000000100,3300,Severe acute respiratory syndrome coronavirus 2 immunisation course contraindicated (situation)
+927231000000102,3300,Measles mumps and rubella booster vaccination invitation second letter (procedure)
+515331000000103,3200,CELVAPAN - first influenza A (H1N1v) 2009 vaccination given by other healthcare provider (finding)
+11935101000006100,3200,
+1850941000006102,3200,
+1694731000006100,3100,
+198041000000109,3100,No consent for hepatitis B vaccination (finding)
+713404003,3000,Vaccination given (situation)
+371111005,3000,Measles immune (finding)
+871541000000106,3000,Second intranasal influenza vaccination declined (situation)
+956341000006105,3000,
+11935031000006107,3000,
+1744711000006105,2900,
+876541000000103,2900,Requires course of Japanese encephalitis vaccination (finding)
+1621001000006102,2800,
+1010021000006102,2700,
+1037371000000101,2700,Second inactivated seasonal influenza vaccination given by pharmacist (situation)
+11935071000006105,2700,
+957581000000102,2700,Meningitis B vaccination given by other healthcare provider (situation)
+783561000000103,2700,Third tick-borne encephalitis vaccination (procedure)
+1694751000006107,2700,
+170426008,2700,Typhoid and Paratyphoid second dose (procedure)
+820741000000108,2600,Supplemental pneumococcal conjugated vaccination (procedure)
+856431000006102,2600,
+1744721000006102,2600,
+1010041000006109,2600,
+1728471000006101,2600,
+1744681000006109,2500,
+722396000,2500,Booster meningitis B vaccination declined (situation)
+864611000000103,2500,"Recommendation to have child immunised against measles, mumps and rubella (procedure)"
+170364006,2500,Measles vaccination plus immunoglobulin (procedure)
+185566000,2400,Child immunization - recall deleted (finding)
+283541000000106,2400,Oral administration of vaccine (procedure)
+1958161000006107,2400,
+891891000000107,2400,Fifth rabies vaccination (procedure)
+1037211000000101,2400,First hepatitis B vaccination given by other healthcare provider (finding)
+2012491000006109,2300,
+415750005,2300,Travel immunization status (finding)
+777731000000103,2300,Human papillomavirus vaccination invitation first short message service text message sent (situation)
+170547009,2300,Requires a course of cholera vaccination (finding)
+736699009,2200,Requires hepatitis B booster (finding)
+1728481000006103,2200,
+761381000000102,2200,Hepatitis C resolved (finding)
+957731000000105,2200,Fourth meningitis ACW and Y vaccination (procedure)
+1728451000006106,2200,
+171286000,2200,No consent - school exit vaccinations (finding)
+1991701000006105,2200,
+171284002,2100,Pertussis vaccine contraindicated (situation)
+869131000000101,2100,Did not attend herpes zoster vaccination (finding)
+1324831000000104,2100,Did not attend for first dose of severe acute respiratory syndrome coronavirus 2 vaccine (finding)
+864531000000105,2100,Recommendation to have child immunised against poliomyelitis (procedure)
+278974001,2100,Hepatitis C immune (finding)
+517511000000109,2000,"Did not attend diphtheria, tetanus and acellular pertussis vaccination (finding)"
+171269006,2000,No consent - measles immunization (finding)
+867811000000105,2000,Third primary immunisation invitation second letter (procedure)
+429203008,2000,History of three doses of hepatitis B vaccine (situation)
+1037011000000108,2000,Booster meningitis B vaccination given by other healthcare provider (situation)
+1066181000000105,2000,First inactivated seasonal influenza vaccination given by midwife (situation)
+867691000000102,2000,First primary immunisation invitation second letter (procedure)
+1240671000000100,1900,Severe acute respiratory syndrome coronavirus 2 vaccination not indicated (situation)
+170361003,1900,Administration of third dose of vaccine product containing only Vaccinia virus antigen (procedure)
+171266004,1900,No consent - diphtheria immunization (finding)
+517491000000101,1900,Did not attend pneumococcal vaccination (finding)
+940281000000102,1900,"Tetanus, diphtheria, inactivated polio vaccination invitation first letter (procedure)"
+1863811000006109,1900,
+1037331000000103,1800,Second intranasal seasonal influenza vaccination given by pharmacist (situation)
+170342002,1800,Administration of booster dose of vaccine product containing only Bacillus anthracis antigen (procedure)
+940241000000105,1700,"Tetanus, diphtheria, inactivated polio vaccination invitation (procedure)"
+1850891000006103,1700,
+380631000000100,1700,Pandemic influenza vaccination contraindicated (situation)
+955671000000109,1700,Second intramuscular seasonal influenza vaccination given by other healthcare provider (situation)
+927211000000105,1700,Measles mumps and rubella booster vaccination invitation third letter (procedure)
+171260005,1700,Not immunized against pertussis (finding)
+722397009,1700,First meningitis B vaccination declined (situation)
+1961451000006103,1700,
+774931000000108,1600,Human papillomavirus vaccination invitation short message service text message sent (situation)
+866351000000103,1600,Did not attend pertussis vaccination in pregnancy (finding)
+1961431000006105,1600,
+884821000000108,1500,Administration of first intranasal pandemic influenza vaccination (procedure)
+518281000000103,1500,"Did not attend diphtheria, tetanus, acellular pertussis and polio vaccination (finding)"
+1321701000000102,1500,Does not have immunity to severe acute respiratory syndrome coronavirus 2 (finding)
+170341009,1500,Administration of fourth dose of vaccine product containing only Bacillus anthracis antigen (procedure)
+913151000000103,1500,Second measles mumps rubella immunisation third telephone invitation (procedure)
+1037231000000109,1500,Second hepatitis B vaccination given by other healthcare provider (finding)
+867831000000102,1400,Third primary immunisation invitation third letter (procedure)
+200921000000104,1400,Hepatitis A immunisation declined (situation)
+1916791000006108,1400,
+170359007,1400,First smallpox vaccination - unsuccessful (situation)
+864571000000107,1400,Recommendation to have child immunised against tetanus (procedure)
+1707151000006105,1400,
+867751000000101,1400,Second primary immunisation invitation second letter (procedure)
+1744661000006104,1300,
+515351000000105,1300,CELVAPAN - second influenza A (H1N1v) 2009 vaccination given by other healthcare provider (finding)
+1961441000006100,1300,
+867711000000100,1300,First primary immunisation invitation third letter (procedure)
+31097004,1300,Post poliomyelitis syndrome (disorder)
+1961381000006102,1300,
+1855091000006103,1300,
+1934681000006101,1200,
+777811000000101,1200,Human papillomavirus vaccination invitation third short message service text message sent (situation)
+1539191000006100,1200,
+406601005,1200,"Rabies prophylaxis, post exposure (procedure)"
+22989000,1100,Vaccination for arthropod-borne virus (procedure)
+171270007,1100,No consent - rubella immunization (finding)
+842861000000101,1100,"Post exposure diphtheria, tetanus, acellular pertussis and inactivated polio vaccination (procedure)"
+768401000000107,1100,Initiation of partner notification (procedure)
+707287001,1100,Hepatitis B vaccination not indicated (situation)
+380771000000107,1100,Second pandemic influenza vaccination given by other healthcare provider (finding)
+2010111000006105,1100,
+473170005,1100,History of bacillus Calmette-Guerin vaccination (situation)
+958191000006104,1100,
+426980004,1100,History of one dose of hepatitis B vaccine (situation)
+710151000000101,1100,Did not attend influenza A virus subtype H1N1 vaccination (finding)
+520041000000107,1000,Did not attend third pneumococcal vaccination (finding)
+856751000006101,1000,
+1744691000006107,1000,
+957711000000102,1000,Third meningitis ACW and Y vaccination (procedure)
+1324781000000109,900,Severe acute respiratory syndrome coronavirus 2 vaccination first dose not given (situation)
+722338002,900,Second meningitis B vaccination declined (situation)
+957601000000106,900,Meningitis B vaccination contraindicated (situation)
+473164004,900,History of varicella vaccination (situation)
+1933401000006106,900,
+1324671000000103,900,Immunisation course to achieve immunity against severe acute respiratory syndrome coronavirus 2 (regime/therapy)
+516301000000101,900,Recombinant meningococcal group B and outer membrane vesicle vaccination (procedure)
+857591000006102,900,
+1082521000000100,900,"Diphtheria, tetanus and acellular pertussis, inactivated polio, Haemophilus influenzae type b and hepatitis B vaccination declined (situation)"
+894681000000107,900,Cholera vaccination declined (situation)
+171293001,800,No consent for measles/rubella vaccine (finding)
+185562003,800,Child immunization - call deleted (finding)
+271500008,800,Intravenous injection of anticytomegalovirus immunoglobulin (procedure)
+1934641000006107,800,
+371112003,800,Mumps immune (finding)
+519941000000105,800,Did not attend second measles mumps and rubella vaccination (finding)
+870041000000107,800,Did not attend second rotavirus vaccination (finding)
+473168001,800,History of yellow fever vaccination (situation)
+1240631000000102,700,Did not attend severe acute respiratory syndrome coronavirus 2 vaccination (finding)
+302764009,700,Rubella non-immune (finding)
+870011000000106,700,Did not attend first rotavirus vaccination (finding)
+275849001,700,Infective hepatitis immunization (procedure)
+957561000000106,700,Fourth meningitis B vaccination (procedure)
+1850901000006104,700,
+1990861000006106,700,
+1916801000006109,700,
+1048861000000103,700,Meningitis B vaccination invitation first letter (procedure)
+416923003,700,Administration of sixth dose of vaccine product containing only Hepatitis B virus antigen (procedure)
+1970651000006104,700,
+1025961000000100,700,Meningitis B vaccination invitation (procedure)
+1863751000006104,700,
+516591000000103,700,Did not attend meningitis C vaccination (finding)
+426519003,600,History of two doses hepatitis B vaccine (situation)
+1086431000000100,600,"First diphtheria, tetanus and acellular pertussis, inactivated polio, Haemophilus influenzae type b and hepatitis B vaccination declined (situation)"
+884921000000103,600,Second intranasal pandemic influenza vaccination given by other healthcare provider (finding)
+867771000000105,600,Second primary immunisation invitation third letter (procedure)
+1818471000006105,600,
+835791000000107,600,Hepatitis B vaccination invitation (procedure)
+1850961000006103,600,
+1887851000006100,500,
+926621000006106,500,
+719320000,500,Yellow fever vaccination contraindicated (situation)
+1324841000000108,500,Did not attend for second dose of severe acute respiratory syndrome coronavirus 2 vaccine (finding)
+1086451000000107,500,"Third diphtheria, tetanus and acellular pertussis, inactivated polio, Haemophilus influenzae type b and hepatitis B vaccination declined (situation)"
+700419006,500,Requires rubella vaccination (finding)
+1573681000006109,500,
+926581000006106,500,
+414546009,500,Isoniazid resistant tuberculosis (disorder)
+50069008,500,Administration of vaccine product containing only Yersinia pestis antigen (procedure)
+520021000000100,500,Did not attend second pneumococcal vaccination (finding)
+926601000006101,500,
+921761000000109,500,Booster yellow fever vaccination (procedure)
+885991000000104,500,First intranasal pandemic influenza vaccination declined (situation)
+1086441000000109,500,"Second diphtheria, tetanus and acellular pertussis, inactivated polio, Haemophilus influenzae type b and hepatitis B vaccination declined (situation)"
+281039000,500,Post-school administration of vaccine product containing only Clostridium tetani and Human poliovirus antigens (procedure)
+864551000000103,500,Recommendation to have child immunised against diphtheria (procedure)
+835811000000108,500,Hepatitis B vaccination invitation first letter (procedure)
+1916851000006108,500,
+699027001,400,Measles vaccination requested (situation)
+1321661000000108,400,Has immunity to severe acute respiratory syndrome coronavirus 2 (finding)
+371085006,400,Measles non-immune (finding)
+864111000000108,400,Recommendation to have child immunised against meningitis C (procedure)
+1324771000000107,400,Severe acute respiratory syndrome coronavirus 2 vaccination dose not given (situation)
+957291000000102,400,Pertussis vaccination in pregnancy contraindicated (situation)
+1991711000006108,400,
+1009431000006101,400,
+11935091000006106,400,
+520171000000102,400,Advice given about influenza A virus subtype H1N1 by telephone (situation)
+11935001000006104,400,
+1748451000006108,400,
+867411000000108,400,Respiratory syncytial virus monoclonal antibody prophylaxis (procedure)
+839711000000101,400,Hepatitis B vaccination not offered (situation)
+926591000006109,300,
+957771000000107,300,Meningitis ACW and Y vaccination contraindicated (situation)
+940301000000101,300,"Tetanus, diphtheria, inactivated polio vaccination invitation second letter (procedure)"
+871868000,300,Vaccination hesitancy by patient (situation)
+1780481000006109,300,
+314769006,300,No consent tetanus plus diphtheria immunization (finding)
+11934951000006100,300,
+1539171000006101,300,
+1851101000006106,300,
+864591000000106,300,Recommendation to have child immunised against pertussis (procedure)
+1961461000006101,300,
+171277005,300,Sensitivity contraindicated - immunization (situation)
+1744731000006104,300,
+1961391000006104,300,
+1991691000006105,300,
+958441000000105,300,Fourth meningitis B vaccination given by other healthcare provider (situation)
+940321000000105,300,"Tetanus, diphtheria, inactivated polio vaccination invitation third letter (procedure)"
+884841000000101,300,Administration of second intranasal pandemic influenza vaccination (procedure)
+897331000000109,300,Haemophilus influenzae type b and meningitis C vaccination contraindicated (situation)
+981991000006100,300,
+519981000000102,200,Did not attend second meningitis C vaccination (finding)
+876521000000105,200,Requires course of tick-borne encephalitis vaccination (finding)
+117085001,200,"Administration of Rabies immune globulin, human (procedure)"
+1880431000006106,200,
+1891101000006103,200,
+1818501000006103,200,
+1727821000006104,200,
+88381000000109,200,No consent for second Haemophilus influenzae type B booster (finding)
+312867004,200,Typhoid and paratyphoid vaccination (procedure)
+9856004,200,Administration of vaccine product containing only Francisella tularensis antigen (procedure)
+960761000006103,200,
+1818511000006100,200,
+1977521000006108,200,
+1573701000006107,200,
+198811000000100,200,No consent for hepatitis A vaccination (finding)
+898291000000101,200,"Diphtheria, tetanus, acellular pertussis, inactivated polio vaccine, Haemophilus influenzae type b vaccination contraindicated (situation)"
+882141000000100,200,Did not attend second intranasal seasonal influenza vaccination (finding)
+1879231000006107,200,
+1977511000006100,200,
+971011000006102,200,
+827101000000105,200,Combined hepatitis A and B vaccination declined (situation)
+1818521000006108,200,
+407598009,200,No consent for third Haemophilus influenzae type B vaccine booster (finding)
+886071000000108,200,Did not attend first intranasal pandemic influenza vaccination (finding)
+1818481000006108,200,
+1573691000006107,200,
+864631000000106,200,Recommendation to have child immunised against pneumococcal infection (procedure)
+835851000000107,100,Hepatitis B vaccination invitation third letter (procedure)
+958151000006105,100,
+719470001,100,Typhoid vaccination contraindicated (situation)
+761844008,100,Human papilloma virus vaccination contraindicated (situation)
+882741000000104,100,Did not attend booster meningitis C vaccination (finding)
+117086000,100,"Intramuscular injection of Rabies immune globulin, human (procedure)"
+1851801000006102,100,
+903241000000108,100,"Diphtheria, tetanus, inactivated polio vaccination contraindicated (situation)"
+384702009,100,Anti-tetanus immunoglobulin injection (procedure)
+1324791000000106,100,Severe acute respiratory syndrome coronavirus 2 vaccination second dose not given (situation)
+1863721000006108,100,
+958161000006107,100,
+1048881000000107,100,Meningitis B vaccination invitation second letter (procedure)
+170546000,100,Requires a cholera booster (finding)
+427633002,100,Intravenous injection of vaccine (procedure)
+699037006,100,Hepatitis B vaccination contraindicated (situation)
+1758781000006105,100,
+415759006,100,Tuberculosis index case (observable entity)
+1891111000006100,100,
+994101000006108,100,
+415345001,100,Rifampicin resistant tuberculosis (disorder)
+398171000000105,100,[V]Diphtheria-tetanus-pertussis with typhoid-paratyphoid (DTP + TAB) vaccination (situation)
+897351000000102,100,"Diphtheria, tetanus, acellular pertussis, inactivated polio vaccination contraindicated (situation)"
+926631000006109,100,
+1852021000006109,100,
+1240681000000103,100,Severe acute respiratory syndrome coronavirus 2 vaccination not done (situation)
+719598000,100,Meningitis C vaccination contraindicated (situation)
+415622003,100,Streptomycin resistant tuberculosis (disorder)
+1758791000006108,100,
+958181000006102,100,
+926641000006104,100,
+1066191000000107,100,Second inactivated seasonal influenza vaccination given by midwife (situation)
+719324009,100,Combined hepatitis A and B vaccination contraindicated (situation)
+371063000,100,Mumps non-immune (finding)
+926651000006102,100,
+994221000006108,100,
+1977531000006106,100,
+1934751000006104,100,
+719474005,100,Tetanus vaccination contraindicated (situation)
+719330009,100,Hepatitis A vaccination contraindicated (situation)
+856991000006109,100,
+201451000000105,100,Hepatitis C immunisation declined (situation)
+886031000000106,100,Second intranasal pandemic influenza vaccination declined (situation)
+1852031000006107,100,
+520351000000108,100,No previous bacillus Calmette-Guerin vaccination (finding)
+1909481000006108,100,
+1048901000000105,100,Meningitis B vaccination invitation third letter (procedure)
+1771511000006100,100,
+703971006,100,Hepatitis A vaccination not indicated (situation)
+719467000,100,Measles vaccination contraindicated (situation)
+1863821000006101,100,
+835871000000103,100,Hepatitis B vaccination verbal invitation (procedure)
+842881000000105,100,"Post exposure diphtheria, tetanus, acellular pertussis and inactivated polio vaccination declined (situation)"
+1977541000006101,100,
+1818491000006106,100,
+1744701000006107,100,
+1539181000006103,100,
+1851811000006104,0,
+1577071000006105,0,
+734152003,0,"Administration of vaccine product containing only Human papillomavirus 6, 11, 16 and 18 antigens (procedure)"
+1656541000006102,0,
+719886001,0,Haemophilus influenzae type b vaccination contraindicated (situation)
+842841000000102,0,"Post exposure diphtheria, tetanus, acellular pertussis and inactivated polio vaccination invitation (procedure)"
+1751391000006104,0,
+268504008,0,Anti-hepatitis B immunoglobulin given (situation)
+170392001,0,Leishmaniasis vaccination (procedure)
+520001000000109,0,Did not attend third meningitis C vaccination (finding)
+764121000000104,0,First Haemophilus influenzae type B and Neisseria meningitidis serotype C combination vaccination (procedure)
+1573671000006106,0,
+1324861000000109,0,Severe acute respiratory syndrome coronavirus 2 immunisation course abandoned (situation)
+926661000006100,0,
+715166006,0,Bacillus Calmette-Guerin vaccination contraindicated (situation)
+1961471000006108,0,
+1539161000006108,0,
+835831000000100,0,Hepatitis B vaccination invitation second letter (procedure)
+1852041000006102,0,
+1977691000006109,0,
+970971000006102,0,
+1851991000006101,0,
+842821000000109,0,"Did not attend post exposure diphtheria, tetanus, acellular pertussis and inactivated polio vaccination (finding)"
+719472009,0,Rabies vaccination contraindicated (situation)
+1977551000006104,0,
+170461002,0,Requires a course of gamma globulin (finding)
+415222009,0,Pyrazinamide resistant tuberculosis (disorder)
+1851821000006107,0,
+1583761000006101,0,
+719458000,0,Japanese encephalitis vaccination contraindicated (situation)
+1577881000006100,0,
+942561000000105,0,Anthrax vaccination contraindicated (situation)
+943881000006101,0,
+954351000006104,0,
+1841871000006106,0,
+1841571000006108,0,
+1911841000006101,0,
+719476007,0,Poliomyelitis vaccination contraindicated (situation)
+886111000000102,0,Did not attend second intranasal pandemic influenza vaccination (finding)
+958141000006108,0,
+413852006,0,Ciprofloxacin resistant tuberculosis (disorder)
+719603008,0,Rabies post exposure prophylaxis contraindicated (situation)
+950071000006103,0,
+950061000006105,0,
+1682681000006104,0,
+1744741000006109,0,
+1008921000006104,0,
+982811000006106,0,
+1240491000000103,0,Severe acute respiratory syndrome coronavirus 2 vaccination (procedure)
+414146004,0,Ethambutol resistant tuberculosis (disorder)
+1682691000006101,0,
+117087009,0,"Subcutaneous injection of Rabies immune globulin, human (procedure)"
+950081000006100,0,
+982021000006108,0,
+1758891000006102,0,
+1727791000006108,0,
+871879005,0,Vaccination hesitancy by parent (situation)
+719469002,0,Cholera vaccination contraindicated (situation)
+954991000006106,0,
+954801000006105,0,
+715163003,0,Diphtheria vaccination contraindicated (situation)
+951601000006106,0,
+982001000006103,0,
+982011000006100,0,
+1863731000006106,0,
+1852001000006104,0,
+856061000006102,0,
+1841841000006103,0,
+957291000006109,0,
+1896121000006100,0,
+1863741000006101,0,
+958201000006101,0,
+1895791000006108,0,
+1682701000006101,0,
+719325005,0,Smallpox vaccination contraindicated (situation)
+719473004,0,Rubella vaccination contraindicated (situation)
+924531000006104,0,
+991841000006100,0,
+1771501000006103,0,
+1841851000006101,0,
+1878681000006104,0,
+1896151000006109,0,
+1008941000006106,0,
+950091000006102,0,
+1805861000006107,0,
+1880341000006109,0,
+1841861000006104,0,
+974671000006101,0,
+1880441000006101,0,
+923981000006105,0,
+924721000006106,0,
+923941000006104,0,
+950221000006108,0,
+954391000006105,0,
+719457005,0,Tick-borne encephalitis vaccination contraindicated (situation)
+1878671000006102,0,
+955011000006101,0,
