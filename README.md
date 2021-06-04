@@ -65,6 +65,12 @@ pip install -r requirements.txt -r requirements.dev.txt
 bin/codestyle.sh .
 ```
 
+### Tests
+
+```sh
+python -m pytest
+```
+
 ## About the OpenSAFELY framework
 
 The OpenSAFELY framework is a secure analytics platform for electronic health records research in the NHS.
