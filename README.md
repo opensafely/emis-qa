@@ -44,19 +44,31 @@ the summary notebook will compare the current snapshot to the old last snapshot.
 
 ## Contributing
 
-For local (non-Docker) development, execute:
+For local (non-Docker) development, first install [pyenv][] and execute:
+
+```sh
+pyenv install $(pyenv local)
+```
+
+Then, execute:
 
 ```sh
 python3 -m venv venv
 source venv/bin/activate
 pip install --upgrade pip
+pip install -r requirements.txt -r requirements.dev.txt
+```
 
-# Either one or the other of the following
-pip install -r requirements.txt
-pip install -r requirements.dev.txt # For also running bin/codestyle.sh
+### QA
 
-# For QA
+```sh
 bin/codestyle.sh .
+```
+
+### Tests
+
+```sh
+python -m pytest
 ```
 
 ## About the OpenSAFELY framework
@@ -71,5 +83,6 @@ Read more at [OpenSAFELY.org](https://opensafely.org).
 
 [codelists folder]:codelists
 [OpenSAFELY documentation]:https://docs.opensafely.org
+[pyenv]: https://github.com/pyenv/pyenv
 [released outputs folder]:released_outputs
 [study definition]:analysis/study_definition.py

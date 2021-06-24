@@ -18,9 +18,16 @@ actions:
       highly_sensitive:
         cohort: output/input-last.feather
 
+  concat_study_populations:
+    run: python:latest python analysis/concat_study_populations.py
+    needs: [generate_study_population, rotate_study_population]
+    outputs:
+      highly_sensitive:
+        cohort: output/output.feather
+
   generate_summary_notebook:
     run: python:latest jupyter nbconvert notebooks/summary.ipynb --to=html --output-dir=output/ --execute --ExecutePreprocessor.timeout=86400
-    needs: [generate_study_population, rotate_study_population]
+    needs: [concat_study_populations]
     outputs:
       moderately_sensitive:
         notebook: output/summary.html
