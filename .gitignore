@@ -2,6 +2,6 @@
 .ipynb_checkpoints/
 __pycache__/
 metadata/
-output/
+./output/
 tags
 venv/
